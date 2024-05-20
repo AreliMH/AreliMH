@@ -2,8 +2,6 @@
 
 I'm Areli, currently an undergraduate student studying Computer Science at Towson University.
 
-Since acquiring my first gaming system at the age of 12, I have always been fascinated by technology. Initially, my interest centered around how software was developed to create games. As I grew older, my curiosity expanded to include areas such as web and mobile app development, automobiles, and robotics. This passion continued to flourish throughout high school, and I was certain that I wanted to pursue a major in computer science. I chose this field because I believe it is continually improving as humanity progresses. The challenges it presents are invigorating, and the sense of accomplishment from witnessing tangible results is a feeling that never gets old.
-
 
 https://arelimh.github.io/cosc412_project_/studyBuddy/index.html 
 <!--
