@@ -3,7 +3,6 @@
 I'm Areli, currently an undergraduate student studying Computer Science at Towson University.
 
 
-https://arelimh.github.io/cosc412_project_/studyBuddy/index.html 
 <!--
 **AreliMH/AreliMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
